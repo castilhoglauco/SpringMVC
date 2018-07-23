@@ -15,7 +15,7 @@
 		<div>
 			<label>Descrição</label>
 			<textarea rows="10" cols="20" name="descricao"></textarea>
-		</div>
+		</div> 
 		<div>
 			<label>Paginas</label>
 			<input title="text" name="paginas">

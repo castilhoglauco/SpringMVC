@@ -16,7 +16,7 @@ public class Produto {
 		this.nome = nome;
 	}
 	public String getDescricao() {
-		return descricao;
+		return descricao; 
 	}
 	public void setDescricao(String descricao) {
 		this.descricao = descricao;

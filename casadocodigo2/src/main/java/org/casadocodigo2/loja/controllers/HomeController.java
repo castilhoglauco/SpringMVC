@@ -9,7 +9,7 @@ public class HomeController {
 	@RequestMapping("/")
 	public String index() {
 		System.out.println("Acessando a pagina principal");
-		return "home";
+		return "home"; 
 	}
 
 }
